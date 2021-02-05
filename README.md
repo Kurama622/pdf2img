@@ -6,11 +6,11 @@ Convert pdf to images.
 
 ## Requires
 
-- pdf2images
-- python
+- pdf2image
+- python3
 
 ```shell
-pip install pdf2images
+pip install pdf2image
 ```
 
 ## Show
@@ -38,6 +38,7 @@ git clone https://github.com/demonlord1997/pdf2img
 For example:
 ```shell
 python pdf2img.py -i example.pdf -d 600 -f . -o example
+
 ```
 
 ### Use In Ranger
