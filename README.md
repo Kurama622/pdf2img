@@ -23,7 +23,7 @@ pip install pdf2image
 git clone https://github.com/demonlord1997/pdf2img
 ```
 
-( If you only use it in [ranger](https://github.com/ranger/ranger), you need not to install it. )
+( If you only use it in [ranger](https://github.com/ranger/ranger), you don't need to install it. )
 
 ## Usage
 ### Use In Shell
@@ -43,7 +43,7 @@ python pdf2img.py -i example.pdf -d 600 -f . -o example
 
 ### Use In Ranger
 
-If you want to use pdf2img in ranger, you need not to clone the repository. I have prepared the class named `pdf2img` for you:
+If you want to use pdf2img in ranger, you don't need to clone the repository. I have prepared the class named `pdf2img` for you:
 ```python
 class pdf2img(Command):
     """
