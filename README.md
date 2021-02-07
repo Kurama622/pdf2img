@@ -23,7 +23,7 @@ pip install pdf2image
 git clone https://github.com/demonlord1997/pdf2img
 ```
 
-( If you only use it in ranger, you need not to install )
+( If you only use it in [ranger](https://github.com/ranger/ranger), you need not to install it. )
 
 ## Usage
 ### Use In Shell
